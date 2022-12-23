@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92ff2e071f60e215",
+        "id": "b0ca1b504e4c3870",
         "type": "tabs",
         "children": [
           {
-            "id": "94cd86e08b626f9b",
+            "id": "7481c585f4959fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94cd86e08b626f9b",
+  "active": "7481c585f4959fcd",
   "lastOpenFiles": [
-    "bill.md",
-    "cat.md"
+    "未命名.canvas",
+    "cat.md",
+    "未命名.md",
+    "[.md",
+    "bill.md"
   ]
 }
