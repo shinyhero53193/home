@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cat.md",
+                "file": "NNILP.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书笔记.md",
+                "file": "NNILP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "0ba7fb127f09f858",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记.md",
+                "file": "NNILP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记.md",
+                "file": "NNILP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记.md"
+                "file": "NNILP.md"
               }
             }
           }
@@ -160,11 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c423401cb62ffb84",
+  "active": "7481c585f4959fcd",
   "lastOpenFiles": [
     "cat.md",
+    "NNILP.md",
     "home.canvas",
-    "读书笔记.md",
     "[.md",
     "bill.md"
   ]
