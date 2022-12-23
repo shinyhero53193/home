@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c423401cb62ffb84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cat.md",
+                "file": "读书笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cat.md",
+                "file": "读书笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cat.md"
+                "file": "读书笔记.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,11 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7481c585f4959fcd",
+  "active": "c423401cb62ffb84",
   "lastOpenFiles": [
-    "home.canvas",
     "cat.md",
-    "未命名.md",
+    "home.canvas",
+    "读书笔记.md",
     "[.md",
     "bill.md"
   ]
