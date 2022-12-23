@@ -11,15 +11,11 @@
             "id": "7481c585f4959fcd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "cat.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.canvas",
+                "file": "cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.canvas",
+                "file": "cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.canvas"
+                "file": "cat.md"
               }
             }
           }
@@ -152,8 +148,8 @@
   },
   "active": "7481c585f4959fcd",
   "lastOpenFiles": [
-    "cat.md",
     "home.canvas",
+    "cat.md",
     "未命名.md",
     "[.md",
     "bill.md"
