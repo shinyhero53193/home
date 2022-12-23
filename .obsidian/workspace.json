@@ -11,12 +11,8 @@
             "id": "94cd86e08b626f9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94cd86e08b626f9b",
-  "lastOpenFiles": []
+  "active": "61b46d7c930b98ea",
+  "lastOpenFiles": [
+    "cat.md",
+    "bill.md"
+  ]
 }
