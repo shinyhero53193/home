@@ -1,7 +1,8 @@
 {
   "rightToLeft": false,
   "showLineNumber": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "defaultViewMode": "preview",
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }

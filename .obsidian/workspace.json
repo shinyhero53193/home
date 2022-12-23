@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7481c585f4959fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NNILP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c423401cb62ffb84",
             "type": "leaf",
             "state": {
@@ -141,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,11 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7481c585f4959fcd",
+  "active": "c423401cb62ffb84",
   "lastOpenFiles": [
-    "cat.md",
+    "未命名.md",
     "NNILP.md",
+    "cat.md",
     "home.canvas",
+    "zz.md",
     "[.md",
     "bill.md"
   ]
