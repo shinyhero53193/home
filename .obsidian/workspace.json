@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "主线情绪.md",
+                "file": "NNILP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主线情绪.md",
+                "file": "NNILP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主线情绪.md",
+                "file": "NNILP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主线情绪.md"
+                "file": "NNILP.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "33cce19bba671993",
   "lastOpenFiles": [
-    "NNILP.md",
     "主线情绪.md",
+    "NNILP.md",
     "cat.md",
     "home.canvas",
     "zz.md",
