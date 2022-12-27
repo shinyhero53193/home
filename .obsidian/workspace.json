@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/多人在线.md",
+                "file": "Cat/主线情绪.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90c201d991378b2c",
+  "active": "33cce19bba671993",
   "lastOpenFiles": [
     "Book/多人在线.md",
     "Cat/主线情绪.md",
