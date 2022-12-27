@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NNILP.md",
+                "file": "Book/多人在线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90c201d991378b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cat/主线情绪.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NNILP.md",
+                "file": "Cat/主线情绪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NNILP.md",
+                "file": "Cat/主线情绪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NNILP.md"
+                "file": "Cat/主线情绪.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33cce19bba671993",
+  "active": "90c201d991378b2c",
   "lastOpenFiles": [
-    "主线情绪.md",
-    "NNILP.md",
+    "Book/多人在线.md",
+    "Book/重构2.md",
+    "Cat/主线情绪.md",
     "cat.md",
     "home.canvas",
     "zz.md",
