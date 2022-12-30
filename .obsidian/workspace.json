@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patent/基于xxx的数据资源调度方法.md",
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patent/基于xxx的数据资源调度方法.md",
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patent/基于xxx的数据资源调度方法.md",
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patent/基于xxx的数据资源调度方法.md"
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "Book/重构2.md",
     "Cat/主线情绪.md",
-    "Patent/基于xxx的数据资源调度方法.md",
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Book/多人在线.md",
     "cat.md",
     "home.canvas",
