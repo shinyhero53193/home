@@ -11,15 +11,11 @@
             "id": "2d5490d32634c7f5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "good.canvas",
-                "viewState": {
-                  "x": -322,
-                  "y": -839,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "good.canvas",
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "good.canvas",
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "good.canvas"
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md"
               }
             }
           }
@@ -152,10 +148,10 @@
   },
   "active": "2d5490d32634c7f5",
   "lastOpenFiles": [
+    "Canvas/map.canvas",
     "Book/多人在线.md",
     "Book/重构2.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
-    "good.canvas",
     "2023-01-06.md",
     "Cat/主线情绪.md",
     "cat.md",
