@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
-                "mode": "preview",
+                "file": "Book/多人在线.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
+                "file": "Book/多人在线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
+                "file": "Book/多人在线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md"
+                "file": "Book/多人在线.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "1014be3f63260df1",
   "lastOpenFiles": [
+    "Book/重构2.md",
+    "Book/多人在线.md",
+    "Canvas/map.canvas",
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "未命名 1.md",
     "2023-01-06.md",
     "未命名.md",
-    "Canvas/map.canvas",
-    "Patent/游戏服务器集群数据资源服务迁移方法.md",
-    "Book/多人在线.md",
-    "Book/重构2.md",
     "Cat/主线情绪.md",
     "cat.md",
     "home.canvas"
