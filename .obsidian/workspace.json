@@ -11,15 +11,11 @@
             "id": "1014be3f63260df1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/map.canvas",
-                "viewState": {
-                  "x": -125.5,
-                  "y": -557,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Book/重构2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/map.canvas",
+                "file": "Book/重构2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/map.canvas",
+                "file": "Book/重构2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/map.canvas"
+                "file": "Book/重构2.md"
               }
             }
           }
@@ -152,10 +148,10 @@
   },
   "active": "1014be3f63260df1",
   "lastOpenFiles": [
+    "Canvas/map.canvas",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Book/多人在线.md",
     "Book/重构2.md",
-    "Canvas/map.canvas",
     "未命名 1.md",
     "2023-01-06.md",
     "未命名.md",
