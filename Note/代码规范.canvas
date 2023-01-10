@@ -8,8 +8,8 @@
 		{"id":"3e33ef08827a5c39","x":528,"y":-90,"width":360,"height":59,"type":"text","text":" <center>提升代码的表达能力，减少代码量"},
 		{"id":"61b2b34cadfc93ec","x":528,"y":199,"width":250,"height":60,"type":"text","text":"<center> 长度"},
 		{"id":"c9e8f6b819277c02","x":173,"y":290,"width":250,"height":60,"type":"text","text":"<center> 重构"},
-		{"id":"d8988803f6e4a186","x":528,"y":290,"width":339,"height":65,"type":"text","text":"<center>合并重复的代码，例如绑定、调用等等以及动态语言的特点。"},
-		{"id":"b7b98d6178f82d81","x":528,"y":379,"width":339,"height":61,"type":"text","text":"<center>开发新功能时尽量重构，但是不动旧的逻辑，逐渐替换"}
+		{"id":"d8988803f6e4a186","x":528,"y":290,"width":339,"height":60,"type":"text","text":"<center>合并重复的代码，例如绑定、调用等等以及动态语言的特点。"},
+		{"id":"b7b98d6178f82d81","x":528,"y":397,"width":339,"height":58,"type":"text","text":"<center>开发新功能时尽量重构，但是不动旧的逻辑，逐渐替换"}
 	],
 	"edges":[
 		{"id":"4285701b22058fdf","fromNode":"72b7173d4738e7f9","fromSide":"right","toNode":"3215504bb4087b9f","toSide":"left"},

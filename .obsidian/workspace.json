@@ -23,15 +23,11 @@
             "id": "8dedb44c240e67a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Note/代码规范.canvas",
-                "viewState": {
-                  "x": 456.5,
-                  "y": 241.9503644388908,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Book/重构2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/代码规范.canvas",
+                "file": "Book/重构2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/代码规范.canvas",
+                "file": "Book/重构2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/代码规范.canvas"
+                "file": "Book/重构2.md"
               }
             }
           }
@@ -165,12 +161,12 @@
   },
   "active": "8dedb44c240e67a5",
   "lastOpenFiles": [
-    "Note/代码规范.md",
-    "Note/代码规范.canvas",
-    "Canvas/map.canvas",
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Book/多人在线.md",
     "Book/重构2.md",
-    "Patent/游戏服务器集群数据资源服务迁移方法.md",
+    "Canvas/map.canvas",
+    "Note/代码规范.canvas",
+    "Note/代码规范.md",
     "未命名 1.md",
     "2023-01-06.md",
     "Cat/主线情绪.md",
