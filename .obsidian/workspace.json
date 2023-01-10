@@ -18,8 +18,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dedb44c240e67a5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Note/代码规范.canvas",
+                "viewState": {
+                  "x": 627.5,
+                  "y": 103.9503644388908,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/多人在线.md",
+                "file": "Note/代码规范.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/多人在线.md",
+                "file": "Note/代码规范.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/多人在线.md"
+                "file": "Note/代码规范.canvas"
               }
             }
           }
@@ -146,17 +163,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1014be3f63260df1",
+  "active": "8dedb44c240e67a5",
   "lastOpenFiles": [
-    "Book/重构2.md",
+    "Note/代码规范.md",
+    "Note/代码规范.canvas",
     "Canvas/map.canvas",
-    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Book/多人在线.md",
+    "Book/重构2.md",
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "未命名 1.md",
     "2023-01-06.md",
-    "未命名.md",
     "Cat/主线情绪.md",
-    "cat.md",
-    "home.canvas"
+    "cat.md"
   ]
 }

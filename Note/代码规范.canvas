@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3215504bb4087b9f","x":173,"y":-116,"width":250,"height":60,"type":"text","text":"<center> 原则"},
+		{"id":"72b7173d4738e7f9","x":-234,"y":11,"width":250,"height":60,"type":"text","text":"<center>规范\n"},
+		{"id":"c9e8f6b819277c02","x":173,"y":150,"width":250,"height":60,"type":"text","text":"<center> 重构"},
+		{"id":"a5fa84276ea1df84","x":173,"y":11,"width":250,"height":60,"type":"text","text":"<center> 命名"},
+		{"id":"3e33ef08827a5c39","x":518,"y":-115,"width":360,"height":59,"type":"text","text":"提升代码的表达能力，减少代码量"}
+	],
+	"edges":[
+		{"id":"4285701b22058fdf","fromNode":"72b7173d4738e7f9","fromSide":"right","toNode":"3215504bb4087b9f","toSide":"left"},
+		{"id":"dfc32f29e644efde","fromNode":"72b7173d4738e7f9","fromSide":"right","toNode":"a5fa84276ea1df84","toSide":"left"},
+		{"id":"0f1cde7b74b7e7b9","fromNode":"72b7173d4738e7f9","fromSide":"right","toNode":"c9e8f6b819277c02","toSide":"left"},
+		{"id":"298b0b890616a183","fromNode":"3215504bb4087b9f","fromSide":"right","toNode":"3e33ef08827a5c39","toSide":"left"}
+	]
+}
