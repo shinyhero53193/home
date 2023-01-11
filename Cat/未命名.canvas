@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"17ed1c01f3565757","x":-579,"y":-65,"width":250,"height":60,"type":"text","text":"<center>选美逻辑服"},
+		{"id":"1983a14e0fa4857c","x":-329,"y":313,"width":250,"height":60,"type":"text","text":"<center>场景服"},
+		{"id":"18ae40bf51726022","x":-829,"y":313,"width":250,"height":60,"type":"text","text":"<center>活动服"},
+		{"id":"01cd51e97ae0a99e","x":-579,"y":-202,"width":250,"height":60,"type":"text","text":"<center>客户端"},
+		{"id":"28875c18db10f5c0","x":-274,"y":-65,"width":250,"height":60,"type":"text","text":"数据：赛季、主题"},
+		{"id":"97c308864e5d8971","x":-16,"y":398,"width":250,"height":60,"type":"text","text":"赛季结算"},
+		{"id":"2ff2a568ec6254cc","x":-16,"y":313,"width":250,"height":60,"type":"text","text":"匹配规则"},
+		{"id":"55a869debfd2fb63","x":-16,"y":232,"width":250,"height":60,"type":"text","text":"开启赛季"},
+		{"id":"bf5a7c8d8b936bd4","x":-1146,"y":313,"width":250,"height":60,"type":"text","text":"业务逻辑，打分、排名..."}
+	],
+	"edges":[
+		{"id":"04147241a3fcdcc4","fromNode":"17ed1c01f3565757","fromSide":"bottom","toNode":"1983a14e0fa4857c","toSide":"top"},
+		{"id":"a9a9aa3b94790e0c","fromNode":"17ed1c01f3565757","fromSide":"bottom","toNode":"18ae40bf51726022","toSide":"top"},
+		{"id":"a6c0e4240e358470","fromNode":"1983a14e0fa4857c","fromSide":"top","toNode":"17ed1c01f3565757","toSide":"bottom"},
+		{"id":"44c954185c99aba0","fromNode":"18ae40bf51726022","fromSide":"top","toNode":"17ed1c01f3565757","toSide":"bottom"},
+		{"id":"85963e2a7747c1da","fromNode":"1983a14e0fa4857c","fromSide":"right","toNode":"2ff2a568ec6254cc","toSide":"left"},
+		{"id":"c942428e2139390b","fromNode":"01cd51e97ae0a99e","fromSide":"bottom","toNode":"17ed1c01f3565757","toSide":"top"},
+		{"id":"d1274742b2486cbf","fromNode":"17ed1c01f3565757","fromSide":"right","toNode":"28875c18db10f5c0","toSide":"left"},
+		{"id":"1021653ba7e96873","fromNode":"1983a14e0fa4857c","fromSide":"right","toNode":"55a869debfd2fb63","toSide":"left"},
+		{"id":"470721431ca6e18a","fromNode":"1983a14e0fa4857c","fromSide":"right","toNode":"97c308864e5d8971","toSide":"left"},
+		{"id":"6535de0121ae3515","fromNode":"18ae40bf51726022","fromSide":"left","toNode":"bf5a7c8d8b936bd4","toSide":"right"}
+	]
+}
