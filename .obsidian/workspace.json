@@ -27,11 +27,15 @@
             "id": "1532ea768909a7e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cat/选美协议.md",
-                "mode": "source",
-                "source": false
+                "file": "Cat/选美.canvas",
+                "viewState": {
+                  "x": -377.73782912125904,
+                  "y": 933.7942086704256,
+                  "zoom": -1.1102230246251565e-16,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/选美协议.md",
+                "file": "Cat/选美.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/选美协议.md",
+                "file": "Cat/选美.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat/选美协议.md"
+                "file": "Cat/选美.canvas"
               }
             }
           }
@@ -165,8 +169,8 @@
   },
   "active": "1532ea768909a7e7",
   "lastOpenFiles": [
-    "Cat/选美.canvas",
     "Cat/选美协议.md",
+    "Cat/选美.canvas",
     "Book/多人在线.md",
     "Book/重构2.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",

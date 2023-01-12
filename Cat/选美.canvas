@@ -5,15 +5,25 @@
 		{"id":"18ae40bf51726022","x":-829,"y":313,"width":250,"height":60,"type":"text","text":"<center>活动服"},
 		{"id":"01cd51e97ae0a99e","x":-579,"y":-202,"width":250,"height":60,"type":"text","text":"<center>客户端"},
 		{"id":"28875c18db10f5c0","x":-274,"y":-65,"width":250,"height":60,"type":"text","text":"数据：赛季、玩家"},
-		{"id":"97c308864e5d8971","x":-16,"y":398,"width":250,"height":60,"type":"text","text":"关闭房间"},
 		{"id":"55a869debfd2fb63","x":-16,"y":232,"width":250,"height":60,"type":"text","text":"开启房间"},
 		{"id":"bf5a7c8d8b936bd4","x":-1142,"y":229,"width":250,"height":60,"type":"text","text":"打分"},
 		{"id":"05c996cf9b1fdd69","x":-1142,"y":395,"width":250,"height":60,"type":"text","text":"结算"},
 		{"id":"d2335bfa69d8e00c","x":-1142,"y":313,"width":250,"height":60,"type":"text","text":"排名"},
+		{"id":"7f4ebce348a4b21c","x":-1142,"y":145,"width":250,"height":60,"type":"text","text":"匹配规则"},
+		{"id":"97c308864e5d8971","x":-16,"y":398,"width":250,"height":60,"type":"text","text":"关闭房间"},
 		{"id":"620e9de4228036d9","x":-329,"y":561,"width":250,"height":60,"type":"text","text":"party"},
 		{"id":"dae7b880e49bb086","x":22,"y":563,"width":250,"height":60,"type":"text","text":"beauty"},
 		{"id":"74afe302ea0cc648","x":-704,"y":563,"width":250,"height":60,"type":"text","text":"base"},
-		{"id":"7f4ebce348a4b21c","x":-1142,"y":145,"width":250,"height":60,"type":"text","text":"匹配规则"}
+		{"id":"3edf4de6b8f06d2e","x":-1142,"y":775,"width":250,"height":60,"type":"text","text":"<center>主线程"},
+		{"id":"e7e353086f06b6ef","x":-1142,"y":904,"width":250,"height":60,"type":"text","text":"<center>Chanel"},
+		{"id":"e15037116f956860","x":-772,"y":904,"width":250,"height":60,"type":"text","text":"开启新赛季"},
+		{"id":"2b5ef5db871bff99","x":-772,"y":1008,"width":250,"height":60,"type":"text","text":"关闭赛季"},
+		{"id":"9e73331a310e4a04","x":-79,"y":904,"width":250,"height":60,"type":"text","text":"开始匹配"},
+		{"id":"b2177ca71c42f167","x":-454,"y":904,"width":250,"height":60,"type":"text","text":"<center>Chanel"},
+		{"id":"54602583429d7ab8","x":-79,"y":1008,"width":250,"height":60,"type":"text","text":"取消匹配"},
+		{"id":"102310eaa9b60b38","x":-79,"y":1112,"width":250,"height":60,"type":"text","text":"确认进入"},
+		{"id":"be131bea6fcc1234","x":-79,"y":1204,"width":250,"height":60,"type":"text","text":"取消进入"},
+		{"id":"46bea48525434034","x":-79,"y":1291,"width":250,"height":60,"type":"text","text":"匹配完成"}
 	],
 	"edges":[
 		{"id":"04147241a3fcdcc4","fromNode":"17ed1c01f3565757","fromSide":"bottom","toNode":"1983a14e0fa4857c","toSide":"top"},
@@ -31,6 +41,16 @@
 		{"id":"31a4d37840cfc1fe","fromNode":"1983a14e0fa4857c","fromSide":"bottom","toNode":"620e9de4228036d9","toSide":"top"},
 		{"id":"affd0e5ea09a0648","fromNode":"1983a14e0fa4857c","fromSide":"bottom","toNode":"dae7b880e49bb086","toSide":"top"},
 		{"id":"408f8ee87a2dd697","fromNode":"1983a14e0fa4857c","fromSide":"bottom","toNode":"74afe302ea0cc648","toSide":"top"},
-		{"id":"4349de7fe2d64a3a","fromNode":"18ae40bf51726022","fromSide":"left","toNode":"7f4ebce348a4b21c","toSide":"right"}
+		{"id":"4349de7fe2d64a3a","fromNode":"18ae40bf51726022","fromSide":"left","toNode":"7f4ebce348a4b21c","toSide":"right"},
+		{"id":"8e07320de3aac028","fromNode":"18ae40bf51726022","fromSide":"bottom","toNode":"3edf4de6b8f06d2e","toSide":"top"},
+		{"id":"7e7ead5037c3126d","fromNode":"3edf4de6b8f06d2e","fromSide":"bottom","toNode":"e7e353086f06b6ef","toSide":"top"},
+		{"id":"735bd346a230958a","fromNode":"e7e353086f06b6ef","fromSide":"right","toNode":"e15037116f956860","toSide":"left"},
+		{"id":"ec58a3a25250703e","fromNode":"e7e353086f06b6ef","fromSide":"right","toNode":"2b5ef5db871bff99","toSide":"left"},
+		{"id":"f9b0b6eabc71e971","fromNode":"e15037116f956860","fromSide":"right","toNode":"b2177ca71c42f167","toSide":"left"},
+		{"id":"83d17056afd58b35","fromNode":"b2177ca71c42f167","fromSide":"right","toNode":"9e73331a310e4a04","toSide":"left"},
+		{"id":"97b2da2e172fb883","fromNode":"b2177ca71c42f167","fromSide":"right","toNode":"54602583429d7ab8","toSide":"left"},
+		{"id":"8d6626d2413be1fb","fromNode":"b2177ca71c42f167","fromSide":"right","toNode":"102310eaa9b60b38","toSide":"left"},
+		{"id":"ca23a18e440763f1","fromNode":"b2177ca71c42f167","fromSide":"right","toNode":"be131bea6fcc1234","toSide":"left"},
+		{"id":"bfaf8f8c23141c0a","fromNode":"b2177ca71c42f167","fromSide":"right","toNode":"46bea48525434034","toSide":"left"}
 	]
 }
