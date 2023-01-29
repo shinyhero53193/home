@@ -27,9 +27,10 @@
 		{"id":"46bea48525434034","x":-79,"y":1291,"width":250,"height":60,"type":"text","text":"匹配完成"},
 		{"id":"97c308864e5d8971","x":-16,"y":398,"width":250,"height":60,"type":"text","text":"关闭房间"},
 		{"id":"a65a20e4c189a41c","x":-1125,"y":1893,"width":250,"height":60,"type":"text","text":"故事点"},
-		{"id":"042b320c4d04420b","x":-781,"y":1863,"width":250,"height":60,"type":"text","text":"框架"},
-		{"id":"1b025672e6928242","x":-781,"y":1953,"width":250,"height":60,"type":"text","text":"化妆间逻辑"},
-		{"id":"16877e4882cdd5ee","x":-781,"y":2055,"width":250,"height":60,"type":"text","text":""}
+		{"id":"042b320c4d04420b","x":-781,"y":1863,"width":250,"height":60,"type":"text","text":"框架 2"},
+		{"id":"1b025672e6928242","x":-781,"y":1953,"width":250,"height":60,"type":"text","text":"化妆间逻辑 1"},
+		{"id":"16877e4882cdd5ee","x":-781,"y":2055,"width":250,"height":60,"type":"text","text":"猫咪数据同步 1"},
+		{"id":"085ebe246c77578c","x":-781,"y":2148,"width":250,"height":60,"type":"text","text":"数据库存档 1"}
 	],
 	"edges":[
 		{"id":"04147241a3fcdcc4","fromNode":"17ed1c01f3565757","fromSide":"bottom","toNode":"1983a14e0fa4857c","toSide":"top"},
@@ -54,6 +55,7 @@
 		{"id":"78f9dfdf7af08cfa","fromNode":"0430d00e322d0379","fromSide":"right","toNode":"6a49311e9b39cf0d","toSide":"left"},
 		{"id":"7b754617df5dfad1","fromNode":"a65a20e4c189a41c","fromSide":"right","toNode":"042b320c4d04420b","toSide":"left"},
 		{"id":"61d66ea87c0e6dff","fromNode":"a65a20e4c189a41c","fromSide":"right","toNode":"1b025672e6928242","toSide":"left"},
-		{"id":"7aa3733020a734cf","fromNode":"a65a20e4c189a41c","fromSide":"right","toNode":"16877e4882cdd5ee","toSide":"left"}
+		{"id":"7aa3733020a734cf","fromNode":"a65a20e4c189a41c","fromSide":"right","toNode":"16877e4882cdd5ee","toSide":"left"},
+		{"id":"e7064497a0b4aef4","fromNode":"a65a20e4c189a41c","fromSide":"right","toNode":"085ebe246c77578c","toSide":"left"}
 	]
 }
