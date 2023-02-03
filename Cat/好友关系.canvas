@@ -2,7 +2,11 @@
 	"nodes":[
 		{"id":"e013e825b3b0c1e6","x":-125,"y":67,"width":250,"height":60,"type":"text","text":"ApplyList"},
 		{"id":"1d3c1186c869a070","x":-125,"y":127,"width":250,"height":60,"type":"text","text":"BlackList"},
-		{"id":"9532677c6ff078d4","x":-125,"y":7,"width":250,"height":60,"type":"text","text":"FriendList"}
+		{"id":"9532677c6ff078d4","x":-125,"y":7,"width":250,"height":60,"type":"text","text":"FriendList"},
+		{"id":"77a0039c5d3e072d","x":259,"y":67,"width":250,"height":60,"type":"text","text":"AddFriend"},
+		{"id":"7d71d2aba08d99ca","x":259,"y":157,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3d6e97a92d4122e2","fromNode":"77a0039c5d3e072d","fromSide":"bottom","toNode":"7d71d2aba08d99ca","toSide":"top"}
+	]
 }

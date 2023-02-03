@@ -15,8 +15,8 @@
               "state": {
                 "file": "Cat/好友关系.canvas",
                 "viewState": {
-                  "x": 674,
-                  "y": 177,
+                  "x": 650,
+                  "y": 298,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -152,15 +152,15 @@
   },
   "active": "1532ea768909a7e7",
   "lastOpenFiles": [
-    "Cat/选美协议.md",
     "Cat/选美.canvas",
+    "Cat/好友关系.canvas",
+    "Cat/选美协议.md",
     "Book/多人在线.md",
     "Book/重构2.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Canvas/map.canvas",
     "Note/代码规范.canvas",
     "Note/代码规范.md",
-    "未命名 1.md",
-    "2023-01-06.md"
+    "未命名 1.md"
   ]
 }
