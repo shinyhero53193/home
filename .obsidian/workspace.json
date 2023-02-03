@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cat/选美.canvas",
+                "file": "Cat/好友关系.canvas",
                 "viewState": {
-                  "x": -453.5696937984417,
-                  "y": 1940.862500004754,
-                  "zoom": -0.28371023949811564,
+                  "x": 674,
+                  "y": 177,
+                  "zoom": 0,
                   "snapToGrid": false
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/选美.canvas",
+                "file": "Cat/好友关系.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/选美.canvas",
+                "file": "Cat/好友关系.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat/选美.canvas"
+                "file": "Cat/好友关系.canvas"
               }
             }
           }

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e013e825b3b0c1e6","x":-125,"y":67,"width":250,"height":60,"type":"text","text":"ApplyList"},
+		{"id":"1d3c1186c869a070","x":-125,"y":127,"width":250,"height":60,"type":"text","text":"BlackList"},
+		{"id":"9532677c6ff078d4","x":-125,"y":7,"width":250,"height":60,"type":"text","text":"FriendList"}
+	],
+	"edges":[]
+}
