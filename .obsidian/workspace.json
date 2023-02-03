@@ -11,16 +11,8 @@
             "id": "1532ea768909a7e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cat/好友关系.canvas",
-                "viewState": {
-                  "x": 650,
-                  "y": 298,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/好友关系.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/好友关系.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cat/好友关系.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1532ea768909a7e7",
+  "active": "61b46d7c930b98ea",
   "lastOpenFiles": [
     "Cat/选美.canvas",
     "Cat/好友关系.canvas",
