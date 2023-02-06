@@ -11,11 +11,15 @@
             "id": "1532ea768909a7e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Book/重构2.md",
-                "mode": "preview",
-                "source": false
+                "file": "Cat/聊天服.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/重构2.md",
+                "file": "Cat/聊天服.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/重构2.md",
+                "file": "Cat/聊天服.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/重构2.md"
+                "file": "Cat/聊天服.canvas"
               }
             }
           }
@@ -146,13 +150,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "61b46d7c930b98ea",
+  "active": "1532ea768909a7e7",
   "lastOpenFiles": [
-    "Book/多人在线.md",
     "Cat/选美.canvas",
-    "Cat/好友关系.canvas",
     "Cat/选美协议.md",
     "Book/重构2.md",
+    "Book/多人在线.md",
+    "Cat/好友关系.canvas",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Canvas/map.canvas",
     "Note/代码规范.canvas",
