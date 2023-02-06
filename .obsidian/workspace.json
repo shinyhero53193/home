@@ -11,8 +11,12 @@
             "id": "1532ea768909a7e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Book/重构2.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Book/重构2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Book/重构2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Book/重构2.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "61b46d7c930b98ea",
   "lastOpenFiles": [
+    "Book/多人在线.md",
     "Cat/选美.canvas",
     "Cat/好友关系.canvas",
     "Cat/选美协议.md",
-    "Book/多人在线.md",
     "Book/重构2.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Canvas/map.canvas",
