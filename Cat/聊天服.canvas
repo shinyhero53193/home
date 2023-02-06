@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"6577c75cd16c98a3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d5ce42392973ab68","x":-51,"y":63,"width":250,"height":60,"type":"text","text":"delete"},
+		{"id":"aaf6df267ff59db7","x":-51,"y":3,"width":250,"height":60,"type":"text","text":"offline"},
+		{"id":"88e02423dc2a50ca","x":-51,"y":-57,"width":250,"height":60,"type":"text","text":"single"},
+		{"id":"6577c75cd16c98a3","x":-480,"y":-160,"width":250,"height":60,"type":"text","text":"game server"},
+		{"id":"8d85125594327155","x":-480,"y":160,"width":250,"height":60,"type":"text","text":"chat server"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0c174a4b505d9882","fromNode":"6577c75cd16c98a3","fromSide":"bottom","toNode":"8d85125594327155","toSide":"top"}
+	]
 }
