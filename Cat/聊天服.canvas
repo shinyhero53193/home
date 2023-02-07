@@ -17,12 +17,13 @@
 		{"id":"8d85125594327155","x":-580,"y":-420,"width":250,"height":60,"type":"text","text":"chat server"},
 		{"id":"b45705a92218a9e5","x":-280,"y":-420,"width":250,"height":60,"type":"text","text":"只做数据存储和转发"},
 		{"id":"88e02423dc2a50ca","x":-360,"y":-140,"width":250,"height":60,"type":"text","text":"chat"},
-		{"id":"aaf6df267ff59db7","x":-360,"y":-80,"width":250,"height":60,"type":"text","text":"getOffline"},
 		{"id":"b32db04583721d62","x":-110,"y":-140,"width":250,"height":60,"type":"text","text":"targets数组作为接收对象"},
 		{"id":"2cd7afbeaf334b47","x":-705,"y":-140,"width":250,"height":60,"type":"text","text":"protocol"},
 		{"id":"34f0fb89fc67d937","x":-45,"y":200,"width":250,"height":60,"type":"text","text":"targetid / _id"},
 		{"id":"590d1c2b61ba52d7","x":330,"y":320,"width":250,"height":60,"type":"text","text":"photo minio"},
-		{"id":"a0eed06404b17ab3","x":330,"y":260,"width":250,"height":60,"type":"text","text":"string"}
+		{"id":"a0eed06404b17ab3","x":330,"y":260,"width":250,"height":60,"type":"text","text":"string"},
+		{"id":"4db2ac13de69911a","x":-360,"y":-80,"width":250,"height":60,"type":"text","text":"roomChat"},
+		{"id":"aaf6df267ff59db7","x":-360,"y":-20,"width":250,"height":60,"type":"text","text":"getOffline"}
 	],
 	"edges":[
 		{"id":"0c174a4b505d9882","fromNode":"6577c75cd16c98a3","fromSide":"bottom","toNode":"8d85125594327155","toSide":"top"},
@@ -45,6 +46,7 @@
 		{"id":"b33c3cc59a23d179","fromNode":"0ede0d32559fbc6a","fromSide":"right","toNode":"5a3bd01098bbc89a","toSide":"left"},
 		{"id":"025ab5c551c7996c","fromNode":"6079e5e2b343a926","fromSide":"right","toNode":"a0eed06404b17ab3","toSide":"left"},
 		{"id":"f3e3489e0fcb5703","fromNode":"bd9539a89533d2e7","fromSide":"right","toNode":"2b6cf1e14586c0a8","toSide":"left"},
-		{"id":"97adb315213c9b95","fromNode":"8d85125594327155","fromSide":"right","toNode":"b45705a92218a9e5","toSide":"left"}
+		{"id":"97adb315213c9b95","fromNode":"8d85125594327155","fromSide":"right","toNode":"b45705a92218a9e5","toSide":"left"},
+		{"id":"df8e9abd86d0f9d2","fromNode":"2cd7afbeaf334b47","fromSide":"right","toNode":"4db2ac13de69911a","toSide":"left"}
 	]
 }
