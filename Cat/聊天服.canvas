@@ -5,7 +5,7 @@
 		{"id":"15217c8449a27a34","x":-280,"y":-740,"width":250,"height":60,"type":"text","text":"整合playerIds，频道聊天"},
 		{"id":"bd9539a89533d2e7","x":-280,"y":-680,"width":250,"height":60,"type":"text","text":"判定"},
 		{"id":"f106c73f8d9b0abd","x":0,"y":-680,"width":250,"height":60,"type":"text","text":"私聊CD"},
-		{"id":"cd6fe5b3722a3040","x":0,"y":-620,"width":250,"height":60,"color":"3","type":"text","text":"黑名单"},
+		{"id":"cd6fe5b3722a3040","x":0,"y":-620,"width":250,"height":60,"type":"text","text":"黑名单"},
 		{"id":"85784e496c4b577e","x":0,"y":-560,"width":250,"height":60,"type":"text","text":"敏感词"},
 		{"id":"cf7444bf16a83442","x":-45,"y":140,"width":250,"height":60,"type":"text","text":"sourceid"},
 		{"id":"6079e5e2b343a926","x":-45,"y":260,"width":250,"height":60,"type":"text","text":"message"},
@@ -20,11 +20,13 @@
 		{"id":"b32db04583721d62","x":-110,"y":-140,"width":250,"height":60,"type":"text","text":"targets数组作为接收对象"},
 		{"id":"2cd7afbeaf334b47","x":-705,"y":-140,"width":250,"height":60,"type":"text","text":"protocol"},
 		{"id":"34f0fb89fc67d937","x":-45,"y":200,"width":250,"height":60,"type":"text","text":"targetid / _id"},
-		{"id":"590d1c2b61ba52d7","x":330,"y":320,"width":250,"height":60,"type":"text","text":"photo minio"},
+		{"id":"590d1c2b61ba52d7","x":330,"y":320,"width":250,"height":60,"color":"1","type":"text","text":"photo minio"},
 		{"id":"a0eed06404b17ab3","x":330,"y":260,"width":250,"height":60,"type":"text","text":"string"},
 		{"id":"4db2ac13de69911a","x":-360,"y":-80,"width":250,"height":60,"type":"text","text":"roomChat"},
 		{"id":"aaf6df267ff59db7","x":-360,"y":-20,"width":250,"height":60,"type":"text","text":"getOffline"},
-		{"id":"630e5c030f7774fa","x":-45,"y":440,"width":250,"height":60,"type":"text","text":"roomid"}
+		{"id":"630e5c030f7774fa","x":-45,"y":440,"width":250,"height":60,"type":"text","text":"roomid"},
+		{"id":"0b071f4a0520dc3d","x":-780,"y":-1120,"width":250,"height":60,"color":"1","type":"text","text":"TODO"},
+		{"id":"8c1cf6de3a91fe6f","x":-780,"y":-1180,"width":250,"height":60,"color":"3","type":"text","text":"Question"}
 	],
 	"edges":[
 		{"id":"0c174a4b505d9882","fromNode":"6577c75cd16c98a3","fromSide":"bottom","toNode":"8d85125594327155","toSide":"top"},
