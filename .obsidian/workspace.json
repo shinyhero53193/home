@@ -15,15 +15,32 @@
               "state": {
                 "file": "Cat/聊天服.canvas",
                 "viewState": {
-                  "x": 60.5,
-                  "y": 182.32823734463153,
+                  "x": 121.5,
+                  "y": 224.32823734463153,
                   "zoom": 0,
                   "snapToGrid": true
                 }
               }
             }
+          },
+          {
+            "id": "6bf3669a8f93da45",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cat/本周故事.canvas",
+                "viewState": {
+                  "x": 540,
+                  "y": 302,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/聊天服.canvas",
+                "file": "Cat/本周故事.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/聊天服.canvas",
+                "file": "Cat/本周故事.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat/聊天服.canvas"
+                "file": "Cat/本周故事.canvas"
               }
             }
           }
@@ -150,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1532ea768909a7e7",
+  "active": "6bf3669a8f93da45",
   "lastOpenFiles": [
+    "未命名.md",
+    "Cat/聊天服.canvas",
     "Cat/选美.canvas",
     "Cat/选美协议.md",
     "Book/重构2.md",
@@ -159,8 +178,6 @@
     "Cat/好友关系.canvas",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Canvas/map.canvas",
-    "Note/代码规范.canvas",
-    "Note/代码规范.md",
-    "未命名 1.md"
+    "Note/代码规范.canvas"
   ]
 }
