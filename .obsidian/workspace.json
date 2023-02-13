@@ -29,10 +29,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cat/本周故事.canvas",
+                "file": "Cat/工作项.canvas",
                 "viewState": {
                   "x": 540,
-                  "y": 302,
+                  "y": 284,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/本周故事.canvas",
+                "file": "Cat/工作项.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/本周故事.canvas",
+                "file": "Cat/工作项.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat/本周故事.canvas"
+                "file": "Cat/工作项.canvas"
               }
             }
           }
@@ -167,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6bf3669a8f93da45",
+  "active": "61b46d7c930b98ea",
   "lastOpenFiles": [
     "未命名.md",
     "Cat/聊天服.canvas",
