@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1532ea768909a7e7",
+            "id": "15a87cdd5ae04ec6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cat/聊天服.canvas",
-                "viewState": {
-                  "x": 121.5,
-                  "y": 224.32823734463153,
-                  "zoom": 0,
-                  "snapToGrid": true
-                }
-              }
-            }
-          },
-          {
-            "id": "6bf3669a8f93da45",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cat/工作项.canvas",
-                "viewState": {
-                  "x": 540,
-                  "y": 284,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Book/高并发.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cat/聊天服.canvas",
+                "file": "Book/高并发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cat/聊天服.canvas",
+                "file": "Book/高并发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cat/聊天服.canvas"
+                "file": "Book/高并发.md"
               }
             }
           }
@@ -169,15 +148,15 @@
   },
   "active": "61b46d7c930b98ea",
   "lastOpenFiles": [
-    "未命名.md",
-    "Cat/聊天服.canvas",
-    "Cat/选美.canvas",
-    "Cat/选美协议.md",
     "Book/重构2.md",
+    "Book/高并发.md",
     "Book/多人在线.md",
+    "Cat/工作项.canvas",
+    "Cat/选美.canvas",
+    "Cat/聊天服.canvas",
+    "Cat/选美协议.md",
     "Cat/好友关系.canvas",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
-    "Canvas/map.canvas",
-    "Note/代码规范.canvas"
+    "Canvas/map.canvas"
   ]
 }
