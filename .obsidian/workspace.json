@@ -11,14 +11,11 @@
             "id": "73781cbdce8e52f7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2023Q3、Q4目标.canvas",
-                "viewState": {
-                  "x": 57.05873648136955,
-                  "y": -129.74636220954022,
-                  "zoom": 0.08584463235068329
-                }
+                "file": "Demo/Antibi.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023Q3、Q4目标.canvas",
+                "file": "Demo/Antibi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023Q3、Q4目标.canvas",
+                "file": "Demo/Antibi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023Q3、Q4目标.canvas"
+                "file": "Demo/Antibi.md"
               }
             }
           }
@@ -159,9 +156,9 @@
   },
   "active": "73781cbdce8e52f7",
   "lastOpenFiles": [
+    "2023Q3、Q4目标.canvas",
     "Demo/Antibi.md",
     "新建 文本文档.txt",
-    "2023Q3、Q4目标.canvas",
     "Demo",
     "JX3/目录结构.md",
     "JX3/C.md",
