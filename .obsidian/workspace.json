@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "JX3/AR Replace.canvas",
+                "file": "Demo/Demo.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 186,
+                  "y": 0,
                   "zoom": 0
                 }
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JX3/AR Replace.canvas",
+                "file": "Demo/Demo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JX3/AR Replace.canvas",
+                "file": "Demo/Demo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JX3/AR Replace.canvas"
+                "file": "Demo/Demo.canvas"
               }
             }
           }
@@ -159,11 +159,12 @@
   },
   "active": "73781cbdce8e52f7",
   "lastOpenFiles": [
-    "JX3/AR.md",
+    "Demo/Antibi.md",
+    "Demo/Demo.canvas",
     "JX3/AR Replace.canvas",
+    "JX3/AR.md",
     "JX3/SQLite.md",
     "JX3/C.md",
-    "Demo/Antibi.md",
     "2023Q3、Q4目标.canvas",
     "新建 文本文档.txt",
     "Demo",
@@ -199,7 +200,6 @@
     "Note/golang.md",
     "Patent/readme.md",
     "Cat/选美协议.md",
-    "Cat/好友关系.canvas",
-    "Canvas/map.canvas"
+    "Cat/好友关系.canvas"
   ]
 }

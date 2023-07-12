@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"UI","id":"bd578af3e6d1bacc","x":-560,"y":-200,"width":250,"height":60},
+		{"type":"text","text":"Animation","id":"4d951f20a8cdd248","x":-560,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"Niagara","id":"55745068248359aa","x":-560,"y":40,"width":250,"height":60},
+		{"type":"text","text":"Weapon","id":"e74d6586101a6d9c","x":-560,"y":160,"width":250,"height":60},
+		{"type":"text","text":"Equipment","id":"f6745873879ad004","x":-560,"y":300,"width":250,"height":60}
+	],
+	"edges":[]
+}
