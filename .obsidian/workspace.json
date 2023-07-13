@@ -15,8 +15,8 @@
               "state": {
                 "file": "Demo/Demo.canvas",
                 "viewState": {
-                  "x": 355,
-                  "y": 68,
+                  "x": -254,
+                  "y": -51,
                   "zoom": 0
                 }
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230713191559.png",
+                "file": "Demo/Demo.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230713191559.png",
+                "file": "Demo/Demo.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230713191559.png"
+                "file": "Demo/Demo.canvas"
               }
             }
           }
@@ -159,9 +159,10 @@
   },
   "active": "73781cbdce8e52f7",
   "lastOpenFiles": [
+    "JX3/构建流程.md",
+    "Demo/Demo.canvas",
     "Pasted image 20230713191559.png",
     "JX3/目录结构.md",
-    "Demo/Demo.canvas",
     "Demo/Antibi.md",
     "JX3/AR.md",
     "JX3/AR Replace.canvas",
@@ -171,7 +172,6 @@
     "新建 文本文档.txt",
     "Demo",
     "JX3/架构图.canvas",
-    "JX3/构建流程.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Note/代码规范.canvas",
     "Pasted image 20230704193109.png",
