@@ -1,17 +1,40 @@
 {
 	"nodes":[
-		{"type":"text","text":"UI","id":"bd578af3e6d1bacc","x":-560,"y":-200,"width":250,"height":60},
-		{"type":"text","text":"Animation","id":"4d951f20a8cdd248","x":-560,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"Niagara","id":"55745068248359aa","x":-560,"y":40,"width":250,"height":60},
-		{"type":"text","text":"Weapon","id":"e74d6586101a6d9c","x":-560,"y":160,"width":250,"height":60},
-		{"type":"text","text":"Equipment","id":"f6745873879ad004","x":-560,"y":300,"width":250,"height":60},
+		{"type":"text","text":"UI","id":"bd578af3e6d1bacc","x":-560,"y":560,"width":250,"height":60},
 		{"type":"text","text":"Gameplay","id":"b195b77bd68682d7","x":-560,"y":-320,"width":250,"height":60},
-		{"type":"text","text":"component\n","id":"6c8fa361e9ad5dab","x":-200,"y":-320,"width":250,"height":60},
-		{"type":"text","text":"Skill","id":"f6d8e90bc4548f4b","x":-200,"y":-140,"width":250,"height":60},
-		{"type":"text","text":"Health","id":"538975a820da1ca3","x":-200,"y":-200,"width":250,"height":60}
+		{"type":"text","text":"Animation","id":"4d951f20a8cdd248","x":-560,"y":680,"width":250,"height":60},
+		{"type":"text","text":"Niagara","id":"55745068248359aa","x":-560,"y":800,"width":250,"height":60},
+		{"type":"text","text":"Weapon","id":"e74d6586101a6d9c","x":-560,"y":920,"width":250,"height":60},
+		{"type":"text","text":"Equipment","id":"f6745873879ad004","x":-560,"y":1060,"width":250,"height":60},
+		{"type":"text","text":"Health","id":"538975a820da1ca3","x":-10,"y":-190,"width":250,"height":60},
+		{"id":"b97ff07a351bcf4a","x":330,"y":-220,"width":250,"height":60,"type":"text","text":"health"},
+		{"id":"ea578ad16ff15f97","x":330,"y":-160,"width":250,"height":60,"type":"text","text":"armor"},
+		{"id":"f7c928f6c86674b6","x":323,"y":0,"width":250,"height":60,"type":"text","text":"2 "},
+		{"id":"821f8660a955f694","x":324,"y":-60,"width":250,"height":60,"type":"text","text":"1 cooldown "},
+		{"id":"2e1720037ceb9740","x":323,"y":54,"width":250,"height":60,"type":"text","text":"3"},
+		{"type":"text","text":"Skill","id":"f6d8e90bc4548f4b","x":-10,"y":0,"width":250,"height":60},
+		{"type":"text","text":"component\n","id":"6c8fa361e9ad5dab","x":-260,"y":-320,"width":250,"height":60},
+		{"id":"0400835d35779893","x":-260,"y":-400,"width":250,"height":60,"type":"text","text":"Logic"},
+		{"id":"e7aeb23da7aa0a66","x":-260,"y":-480,"width":250,"height":60,"type":"text","text":"AI"},
+		{"id":"bc22070ffae6a159","x":-10,"y":140,"width":250,"height":60,"type":"text","text":"Weapon"},
+		{"id":"acf6c07a7967a3cc","x":-10,"y":240,"width":250,"height":60,"type":"text","text":"Blood"},
+		{"id":"5418661809a8e845","x":80,"y":-400,"width":250,"height":60,"type":"text","text":"begin / end"},
+		{"id":"abe7dbbc324984cf","x":400,"y":-416,"width":580,"height":93,"type":"text","text":"操作主角沿着指示方向前进，消灭沿途敌人，获得装备，提升实力，在终点处杀怪，根据杀敌数获得分数排名。\n服务器：登录，网络同步排行榜。"}
 	],
 	"edges":[
 		{"id":"1ea855bd914e4b84","fromNode":"b195b77bd68682d7","fromSide":"right","toNode":"6c8fa361e9ad5dab","toSide":"left"},
-		{"id":"dd60923c856a5c56","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"538975a820da1ca3","toSide":"top"}
+		{"id":"220bafbb488ae65d","fromNode":"538975a820da1ca3","fromSide":"right","toNode":"b97ff07a351bcf4a","toSide":"left"},
+		{"id":"4658d94b9bd2e127","fromNode":"538975a820da1ca3","fromSide":"right","toNode":"ea578ad16ff15f97","toSide":"left"},
+		{"id":"29970bf30928d6bb","fromNode":"f6d8e90bc4548f4b","fromSide":"right","toNode":"821f8660a955f694","toSide":"left"},
+		{"id":"05fd8eaf4b555332","fromNode":"f6d8e90bc4548f4b","fromSide":"right","toNode":"f7c928f6c86674b6","toSide":"left"},
+		{"id":"0b37a4c981a76ac5","fromNode":"f6d8e90bc4548f4b","fromSide":"right","toNode":"2e1720037ceb9740","toSide":"left"},
+		{"id":"38a51e24beb621a7","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"f6d8e90bc4548f4b","toSide":"left"},
+		{"id":"008ef8800615668d","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"538975a820da1ca3","toSide":"left"},
+		{"id":"d356f9c880d67fb9","fromNode":"b195b77bd68682d7","fromSide":"right","toNode":"0400835d35779893","toSide":"left"},
+		{"id":"cd7b9209d05e9fba","fromNode":"b195b77bd68682d7","fromSide":"right","toNode":"e7aeb23da7aa0a66","toSide":"left"},
+		{"id":"78b9d3d1fb4cfa6a","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"bc22070ffae6a159","toSide":"left"},
+		{"id":"55b081eed89b103a","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"acf6c07a7967a3cc","toSide":"left"},
+		{"id":"dfd3e45445f99899","fromNode":"0400835d35779893","fromSide":"right","toNode":"5418661809a8e845","toSide":"left"},
+		{"id":"7ebfdf20b8476236","fromNode":"5418661809a8e845","fromSide":"right","toNode":"abe7dbbc324984cf","toSide":"left"}
 	]
 }
