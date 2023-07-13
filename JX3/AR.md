@@ -1,1 +1,4 @@
-
+- bitmap 存储， 多张图的对应关系
+	- ArAugmentedImage_acquireName：获取image name
+	- 枚举
+- 

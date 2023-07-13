@@ -11,14 +11,11 @@
             "id": "73781cbdce8e52f7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Demo/Demo.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 279,
-                  "zoom": 0
-                }
+                "file": "JX3/AR.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "JX3/AR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "JX3/AR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo/Demo.canvas"
+                "file": "JX3/AR.md"
               }
             }
           }
@@ -159,8 +156,8 @@
   },
   "active": "73781cbdce8e52f7",
   "lastOpenFiles": [
-    "Demo/Antibi.md",
     "Demo/Demo.canvas",
+    "Demo/Antibi.md",
     "JX3/AR Replace.canvas",
     "JX3/AR.md",
     "JX3/SQLite.md",
