@@ -15,8 +15,8 @@
               "state": {
                 "file": "Demo/Demo.canvas",
                 "viewState": {
-                  "x": -254,
-                  "y": -51,
+                  "x": 91,
+                  "y": -27,
                   "zoom": 0
                 }
               }
@@ -159,9 +159,9 @@
   },
   "active": "73781cbdce8e52f7",
   "lastOpenFiles": [
-    "JX3/构建流程.md",
-    "Demo/Demo.canvas",
     "Pasted image 20230713191559.png",
+    "Demo/Demo.canvas",
+    "JX3/构建流程.md",
     "JX3/目录结构.md",
     "Demo/Antibi.md",
     "JX3/AR.md",

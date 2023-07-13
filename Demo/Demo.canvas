@@ -5,7 +5,13 @@
 		{"type":"text","text":"Niagara","id":"55745068248359aa","x":-560,"y":40,"width":250,"height":60},
 		{"type":"text","text":"Weapon","id":"e74d6586101a6d9c","x":-560,"y":160,"width":250,"height":60},
 		{"type":"text","text":"Equipment","id":"f6745873879ad004","x":-560,"y":300,"width":250,"height":60},
-		{"id":"b195b77bd68682d7","x":-560,"y":-320,"width":250,"height":60,"type":"text","text":"Gameplay"}
+		{"type":"text","text":"Gameplay","id":"b195b77bd68682d7","x":-560,"y":-320,"width":250,"height":60},
+		{"type":"text","text":"component\n","id":"6c8fa361e9ad5dab","x":-200,"y":-320,"width":250,"height":60},
+		{"type":"text","text":"Skill","id":"f6d8e90bc4548f4b","x":-200,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"Health","id":"538975a820da1ca3","x":-200,"y":-200,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1ea855bd914e4b84","fromNode":"b195b77bd68682d7","fromSide":"right","toNode":"6c8fa361e9ad5dab","toSide":"left"},
+		{"id":"dd60923c856a5c56","fromNode":"6c8fa361e9ad5dab","fromSide":"bottom","toNode":"538975a820da1ca3","toSide":"top"}
+	]
 }
