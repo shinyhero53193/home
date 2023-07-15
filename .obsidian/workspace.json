@@ -4,25 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "635d4702a5d6dbf5",
+        "id": "925e07420e01b6da",
         "type": "tabs",
         "children": [
           {
-            "id": "73781cbdce8e52f7",
+            "id": "15ab2435b9f23591",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Demo/Demo.canvas",
-                "viewState": {
-                  "x": 374.5,
-                  "y": -305.0967733238167,
-                  "zoom": 0
-                }
+                "file": "Book/重构2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d89fc5f22fd1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patent/游戏服务器集群数据资源服务迁移方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "818b3f39421b09aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +91,7 @@
             }
           },
           {
-            "id": "59d9efb6047621aa",
+            "id": "8d429132c7b4c13b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo/Demo.canvas"
+                "file": "readme.md"
               }
             }
           }
@@ -157,50 +179,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73781cbdce8e52f7",
+  "active": "818b3f39421b09aa",
   "lastOpenFiles": [
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
+    "readme.md",
+    "Untitled",
+    "2023Q3、Q4目标.canvas",
     "Pasted image 20230713191559.png",
-    "Demo/Demo.canvas",
-    "JX3/构建流程.md",
+    "JX3/SQLite.md",
     "JX3/目录结构.md",
-    "Demo/Antibi.md",
     "JX3/AR.md",
     "JX3/AR Replace.canvas",
-    "JX3/SQLite.md",
-    "JX3/C.md",
-    "2023Q3、Q4目标.canvas",
-    "新建 文本文档.txt",
-    "Demo",
-    "JX3/架构图.canvas",
-    "Patent/游戏服务器集群数据资源服务迁移方法.md",
-    "Note/代码规范.canvas",
-    "Pasted image 20230704193109.png",
-    "Pasted image 20230704193004.png",
-    "Note/分布式系统.md",
-    "Note/后端系统架构.md",
-    "Note/未命名.canvas",
-    "Note/UNIX.md",
-    "Pasted image 20230704142504.png",
-    "Leetcode/Untitled.md",
-    "Leetcode",
     "Book/数据密集型.md",
-    "Book/架构设计.md",
-    "JX3/Untitled.md",
-    "Book/高并发.md",
-    "Book/LLVM.md",
-    "Book/重构2.md",
-    "Book/多人在线.md",
-    "JX3/SQLite/Untitled.md",
-    "JX3/SQLite",
-    "Cat/选美.canvas",
-    "Cat/聊天服.canvas",
-    "Cat/工作项.canvas",
-    "JX3",
     "readme.md",
+    "Note/未命名.canvas",
+    "JX3/架构图.canvas",
+    "JX3/构建流程.md",
+    "JX3/C.md",
+    "JX3",
+    "Demo/Demo.canvas",
+    "Demo/Antibi.md",
+    "Demo",
+    "Book/架构设计.md",
+    "Book/LLVM.md",
+    "home/readme.md",
+    "home/Patent/游戏服务器集群数据资源服务迁移方法.md",
+    "home/Patent",
+    "home/Note/后端系统架构.md",
+    "home/Note/分布式系统.md",
+    "home/Note/代码规范.canvas",
+    "home/Note/UNIX.md",
+    "home/Note",
+    "home/Cat/选美.canvas",
+    "home/Cat/聊天服.canvas",
+    "home/Cat/工作项.canvas",
+    "home/Cat",
+    "home/Book/高并发.md",
+    "home/Book/重构2.md",
+    "home/Book/数据密集型.md",
+    "home/Book/多人在线.md",
+    "home/Book/golang.md",
+    "home/Book",
+    "home",
+    "Book/重构2.md",
+    "Book/高并发.md",
     "Book/golang.md",
-    "Note/golang.md",
-    "Patent/readme.md",
-    "Cat/选美协议.md",
-    "Cat/好友关系.canvas"
+    "Note/后端系统架构.md",
+    "Note/代码规范.canvas"
   ]
 }
