@@ -8,7 +8,7 @@
 		{"id":"a0da6ff4b55b0144","x":-1100,"y":-460,"width":250,"height":60,"type":"text","text":"plan"},
 		{"type":"text","text":"basic charactor properties, basic UI, use of blueprint and some config.","id":"e6358876ad3bd719","x":-320,"y":-280,"width":731,"height":60},
 		{"id":"ae07e01a0108d4f6","x":-320,"y":-460,"width":250,"height":60,"type":"text","text":"done"},
-		{"id":"6537325c4351bcf6","x":-700,"y":-460,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6537325c4351bcf6","x":-700,"y":-460,"width":250,"height":60,"type":"text","text":"<center>JUMMMMP"},
 		{"type":"text","text":"gameplay(complete lifeline)","id":"9d7ed156cee98724","x":-1160,"y":-80,"width":310,"height":60}
 	],
 	"edges":[
