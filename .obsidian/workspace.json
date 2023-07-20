@@ -37,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "Demo/Schedule.canvas",
                 "viewState": {
-                  "x": 256.3522785124232,
-                  "y": -229.165132913999,
-                  "zoom": 0.5772914873682271
+                  "x": -562,
+                  "y": -76,
+                  "zoom": 0
                 }
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "Demo/Schedule.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo/Demo.canvas",
+                "file": "Demo/Schedule.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo/Demo.canvas"
+                "file": "Demo/Schedule.canvas"
               }
             }
           }
@@ -185,6 +185,8 @@
   "active": "818b3f39421b09aa",
   "lastOpenFiles": [
     "Demo/Antibi.md",
+    "Demo/Schedule.canvas",
+    "Demo/Framework.canvas",
     "readme.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Untitled",
@@ -200,7 +202,6 @@
     "JX3/构建流程.md",
     "JX3/C.md",
     "JX3",
-    "Demo/Demo.canvas",
     "Demo",
     "Book/架构设计.md",
     "Book/LLVM.md",
@@ -226,7 +227,6 @@
     "Book/重构2.md",
     "Book/高并发.md",
     "Book/golang.md",
-    "Note/后端系统架构.md",
-    "Note/代码规范.canvas"
+    "Note/后端系统架构.md"
   ]
 }
