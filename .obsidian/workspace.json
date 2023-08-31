@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15ab2435b9f23591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/重构2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54d89fc5f22fd1b9",
             "type": "leaf",
             "state": {
@@ -35,19 +23,16 @@
             "id": "818b3f39421b09aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Demo/Schedule.canvas",
-                "viewState": {
-                  "x": -562,
-                  "y": -76,
-                  "zoom": 0
-                }
+                "file": "Schedule/IOS.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo/Schedule.canvas",
+                "file": "Schedule/IOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo/Schedule.canvas",
+                "file": "Schedule/IOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo/Schedule.canvas"
+                "file": "Schedule/IOS.md"
               }
             }
           }
@@ -184,8 +169,9 @@
   },
   "active": "818b3f39421b09aa",
   "lastOpenFiles": [
-    "Demo/Antibi.md",
     "Demo/Schedule.canvas",
+    "Book/重构2.md",
+    "Demo/Antibi.md",
     "Demo/Framework.canvas",
     "readme.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
@@ -224,7 +210,6 @@
     "home/Book/golang.md",
     "home/Book",
     "home",
-    "Book/重构2.md",
     "Book/高并发.md",
     "Book/golang.md",
     "Note/后端系统架构.md"
