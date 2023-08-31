@@ -2,4 +2,4 @@
 - CMake编译ios下的静态库 .a
 - vcpkg
 - xcode的构建过程
-- 链接.a
+- xcode链接.a
