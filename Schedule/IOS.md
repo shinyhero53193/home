@@ -7,7 +7,7 @@
 
 ### Todo
 - 新建ios项目
-- 创建Frameworks管理 .a 静态库，在swift 中调用其函数
+- 创建Frameworks管理 .a 静态库，在swift/OC 中调用其函数
 - 调研swift生命周期，并映射到XR项目中
 - 在test中添加生命周期的管理，事件注册等
 - 调用XR的main, baseLogic等

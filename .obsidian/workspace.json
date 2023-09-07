@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "818b3f39421b09aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule/IOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "83c813a4e821852d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,13 +156,14 @@
   },
   "active": "83c813a4e821852d",
   "lastOpenFiles": [
+    "Patent/游戏服务器集群数据资源服务迁移方法.md",
+    "Schedule/IOS.md",
     "2023Q3、Q4目标.canvas",
     "Demo/Schedule.canvas",
     "Book/重构2.md",
     "Demo/Antibi.md",
     "Demo/Framework.canvas",
     "readme.md",
-    "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Untitled",
     "Pasted image 20230713191559.png",
     "JX3/SQLite.md",
