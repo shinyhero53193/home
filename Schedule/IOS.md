@@ -5,10 +5,25 @@
 - xcode链接.a
 
 
-### iOS包依赖
-#### Pod
-- podfile， 自定义pod库，供ios引入
-- pod install
+### Todo
+- 新建ios项目
+- 创建Frameworks管理 .a 静态库，在swift 中调用其函数
+- 调研swift生命周期，并映射到XR项目中
+- 在test中添加生命周期的管理，事件注册等
+- 调用XR的main, baseLogic等
+- 各个逻辑功能接入、验证
+- 宏开关，使安卓，ios可用
+- 重构～～～～
 
-#### SPM
-- package.swift   struct package
+
+### 进度 --->
+- 10%
+
+### Note
+- 生成framework的指令：
+	 -xcodebuild -create-xcframework \
+	 -library build/libSH.a \
+	 -output SH.xcframework
+
+
+
