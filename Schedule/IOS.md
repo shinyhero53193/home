@@ -20,4 +20,4 @@
 	 -xcodebuild -create-xcframework \
 	 -library build/libSH.a \
 	 -output SH.xcframework
-- 
+- macos 可以运行，IOS编译出错
