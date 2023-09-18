@@ -23,4 +23,8 @@
 - macos 可以运行，ios 编译出错
 
 - view controller的生命周期
-	
+
+
+### Q
+- cmake构建xcode工程不能运行
+- 
