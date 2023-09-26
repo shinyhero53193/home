@@ -28,3 +28,6 @@
 ### Q
 - cmake构建xcode工程不能运行
 - 构建的工程目录没有.h
+
+////$(PROJECT_DIR)/../../../
+////$(PROJECT_DIR)/../../../../../../../Base/Include/

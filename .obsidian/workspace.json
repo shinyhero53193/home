@@ -23,9 +23,11 @@
             "id": "e858aee008737775",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Schedule/IOS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
