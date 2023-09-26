@@ -29,5 +29,4 @@
 - cmake构建xcode工程不能运行
 - 构建的工程目录没有.h
 
-////$(PROJECT_DIR)/../../../
-////$(PROJECT_DIR)/../../../../../../../Base/Include/
+ZHAOBOQIANG1 [赵博强] <ZHAOBOQIANG1@kingsoft.com>、 YangLin [杨林] <yanglin@kingsoft.com>、 ZouHao [邹浩] <ZouHao@kingsoft.com>、 XIEXIAOLAN [谢晓岚] <XIEXIAOLAN@kingsoft.com>、 罗茜 <luoxi@kingsoft.com>、 xsj_3DEngine_All [引擎平台全员] <xsj_3DEngine_All@kingsoft.com>
