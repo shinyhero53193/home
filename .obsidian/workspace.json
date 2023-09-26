@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e858aee008737775",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +147,16 @@
                 "file": "Schedule/IOS.md"
               }
             }
+          },
+          {
+            "id": "a982f03a4454fc88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -154,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83c813a4e821852d",
+  "active": "e858aee008737775",
   "lastOpenFiles": [
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "Schedule/IOS.md",
