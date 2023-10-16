@@ -23,6 +23,7 @@
 - macos 可以运行，ios 编译出错
 
 - view controller的生命周期
+- info.plist  设置executable file   $(EXECUTABLE_NAME)
 
 
 ### Q
