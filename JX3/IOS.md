@@ -20,12 +20,11 @@
 	 -xcodebuild -create-xcframework \
 	 -library build/libSH.a \
 	 -output SH.xcframework
-- macos 可以运行，ios 编译出错
 
-- view controller的生命周期
-- info.plist  设置executable file   $(EXECUTABLE_NAME)
+- info.plist  设置executable file  -> $(EXECUTABLE_NAME)
+- launch screen file -> launchScreen.storyboard
+- 黑屏  ->  storyboard 设置 is initial view controller
 
 
 ### Q
-- cmake构建xcode工程不能运行
-- 构建的工程目录没有.h
+
