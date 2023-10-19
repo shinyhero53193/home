@@ -25,6 +25,7 @@
 - launch screen file -> launchScreen.storyboard
 - 
 - 黑屏  ->  storyboard 设置 is initial view controller
+- unable to install -> bundle identifier 需要改一下，不能与cmake中的一致
 
 
 ### Q
