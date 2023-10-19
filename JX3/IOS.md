@@ -23,6 +23,7 @@
 
 - info.plist  设置executable file  -> $(EXECUTABLE_NAME)
 - launch screen file -> launchScreen.storyboard
+- 
 - 黑屏  ->  storyboard 设置 is initial view controller
 
 
