@@ -26,7 +26,7 @@
 - 
 - 黑屏  ->  storyboard 设置 is initial view controller
 - unable to install -> bundle identifier 需要改一下，不能与cmake中的一致
-
+- 启动顺序 kbaseLogic -> KG3DEngineManager
 
 ### Q
 
