@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"a5b61b7460250ffd","x":-300,"y":-220,"width":250,"height":60,"type":"text","text":"引擎启动🔥🔥"},
+		{"id":"17937ce09b7b211f","x":0,"y":-220,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"f2340edeb3f58cfc","fromNode":"a5b61b7460250ffd","fromSide":"right","toNode":"17937ce09b7b211f","toSide":"left"}
+	]
 }
