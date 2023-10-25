@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"a5b61b7460250ffd","type":"text","text":"引擎启动🔥🔥","x":-300,"y":-220,"width":250,"height":60},
-		{"id":"17937ce09b7b211f","type":"text","text":"iOS Booter初始化","x":-300,"y":-120,"width":250,"height":60},
-		{"id":"0963464a9834b195","type":"text","text":"状态机","x":-300,"y":-20,"width":250,"height":60},
-		{"id":"58f1c261964b01f4","type":"text","text":"创建，初始化，帧循环","x":20,"y":-20,"width":300,"height":60}
+		{"id":"17937ce09b7b211f","type":"text","text":"SetupContext","x":-300,"y":-120,"width":250,"height":60},
+		{"id":"692f5d5bc92989d2","x":-300,"y":-20,"width":250,"height":60,"type":"text","text":"KG_CreateInterface"},
+		{"id":"6121379ba2fcef1e","x":-300,"y":80,"width":250,"height":60,"type":"text","text":"InitIosPlatform"}
 	],
 	"edges":[
 		{"id":"1e1d97f39c751552","fromNode":"a5b61b7460250ffd","fromSide":"bottom","toNode":"17937ce09b7b211f","toSide":"top"},
-		{"id":"d1549728fadba524","fromNode":"17937ce09b7b211f","fromSide":"bottom","toNode":"0963464a9834b195","toSide":"top"},
-		{"id":"9d83911eca6e3287","fromNode":"0963464a9834b195","fromSide":"right","toNode":"58f1c261964b01f4","toSide":"left"}
+		{"id":"74d9d16ea00e03cc","fromNode":"17937ce09b7b211f","fromSide":"bottom","toNode":"692f5d5bc92989d2","toSide":"top"},
+		{"id":"924db3e9bbff3137","fromNode":"692f5d5bc92989d2","fromSide":"bottom","toNode":"6121379ba2fcef1e","toSide":"top"}
 	]
 }
