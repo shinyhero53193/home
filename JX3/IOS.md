@@ -27,5 +27,6 @@
 - unable to install -> bundle identifier 需要改一下，不能与cmake中的一致
 - 启动顺序 kbaseLogic -> KG3DEngineManager
 - VK渲染需要 **CAMetalLayer**  -> storyboard 设置正确的view
+- 
 
 
