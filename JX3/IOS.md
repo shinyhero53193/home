@@ -30,3 +30,6 @@
 - 升级Xcode15， 需要link -ld64
 
 
+### Arkit
+- storyboard 添加sceneview， 并建立referencing outlets， 拖拽”+“ 到界面
+
