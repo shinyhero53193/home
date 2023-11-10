@@ -34,3 +34,11 @@
 - storyboard 添加sceneview， 并建立referencing outlets， 拖拽”+“ 到界面
 - 拖到左上角viewcontroller 的黄色小圈圈图标上 <反人类>
 - 
+
+
+todolist
+- cmake 编译静态库，供单独的工程依赖， 不用每次都全部编译。  看似不可行
+- 添加CInterface，合适的调用
+- 头文件路径 + 静态库路径， 如何批量导入？
+- UIVIew 渲染+ AR
+- 
