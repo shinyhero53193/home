@@ -32,4 +32,5 @@
 
 ### Arkit
 - storyboard 添加sceneview， 并建立referencing outlets， 拖拽”+“ 到界面
-
+- 拖到左上角viewcontroller 的黄色小圈圈图标上 <反人类>
+- 
