@@ -35,7 +35,7 @@
 - MetalView
 - 拖到左上角viewcontroller 的黄色小圈圈图标上 <反人类>
 - swift 调用C++ ， 添加header，在setting中设置，OC-BD -> C++; 再在OC-BD 后面填上头文件名称
-
+- 不全屏， info 添加 LaunchScreen, UILaunch Screen Dictionary
 
 ### todolist
 - cmake 编译静态库，供单独的工程依赖， 不用每次都全部编译。  看似不可行
