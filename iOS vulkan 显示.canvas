@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"755fe42a9beb1d9d","x":-146,"y":-420,"width":1686,"height":740,"type":"group","label":"RenderBackground"},
 		{"id":"62fbe1ff3e66e196","type":"group","x":240,"y":-360,"width":407,"height":590,"label":"HardwareBuffer"},
+		{"id":"bad8106b2ca2bdc3","x":357,"y":480,"width":863,"height":220,"type":"group","label":"Texture"},
 		{"id":"3e7b6b1423068d41","type":"text","text":"SetupYcbcrConversion","x":270,"y":150,"width":347,"height":60},
 		{"id":"923e53829e95283d","type":"text","text":"AHardwareBuffer_describe","x":276,"y":-340,"width":335,"height":60},
 		{"id":"cf890117cbf72bee","type":"text","text":"GetHardwareBufferProperties","x":276,"y":-240,"width":335,"height":60},
@@ -21,16 +22,16 @@
 		{"id":"f3f9d81263afa336","x":1220,"y":-50,"width":300,"height":60,"type":"text","text":"vkCmdBindDescriptorSets"},
 		{"id":"f433e87b3a961e67","x":1245,"y":50,"width":250,"height":60,"type":"text","text":"vkCmdDrawIndexed"},
 		{"id":"9d043eb5dc7ed21e","type":"text","text":"EndCommandBuffer","x":1245,"y":150,"width":250,"height":60},
-		{"id":"c252c482c9144eb1","type":"text","text":"图像格式，用vkCreateImage创建","x":627,"y":500,"width":490,"height":60},
-		{"id":"9bce8ca7ea9a0469","type":"text","text":"分配内存和绑定","x":627,"y":560,"width":490,"height":60},
-		{"id":"88192786b45aff65","type":"text","text":"视图格式，用vkCreateImageView 创建","x":627,"y":620,"width":490,"height":60},
 		{"id":"be0f012fc448f87b","type":"text","text":"vulkan图像","x":57,"y":500,"width":250,"height":60},
 		{"id":"f2aa8d77150069c2","type":"text","text":"VkImage ","x":377,"y":500,"width":250,"height":60},
 		{"id":"333c628381c95d3f","type":"text","text":"VkDeviceMemory","x":377,"y":560,"width":250,"height":60},
 		{"id":"e7ab1631311e3b8d","type":"text","text":"VkImageView","x":377,"y":620,"width":250,"height":60},
 		{"id":"81a0c2ce743d3080","type":"text","text":"BeginCommandBuffer","x":-126,"y":-340,"width":275,"height":60},
 		{"id":"c0b787abe762f286","type":"text","text":"GetVkPhysicalDevice","x":-113,"y":-240,"width":250,"height":60},
-		{"id":"c57b3adc40345ab5","type":"text","text":"GetVkDevice","x":-113,"y":-143,"width":250,"height":60}
+		{"id":"c57b3adc40345ab5","type":"text","text":"GetVkDevice","x":-113,"y":-143,"width":250,"height":60},
+		{"id":"c252c482c9144eb1","type":"text","text":"图像格式，用vkCreateImage创建","x":680,"y":500,"width":490,"height":60},
+		{"id":"9bce8ca7ea9a0469","type":"text","text":"分配内存和绑定","x":680,"y":560,"width":490,"height":60},
+		{"id":"88192786b45aff65","type":"text","text":"视图格式，用vkCreateImageView 创建","x":680,"y":620,"width":490,"height":60}
 	],
 	"edges":[
 		{"id":"a0754d1392edd91a","fromNode":"be0f012fc448f87b","fromSide":"right","toNode":"f2aa8d77150069c2","toSide":"left"},
