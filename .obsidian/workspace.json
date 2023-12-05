@@ -11,14 +11,11 @@
             "id": "e858aee008737775",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "iOS vulkan 显示.canvas",
-                "viewState": {
-                  "x": 842.946285669049,
-                  "y": 515.0378478620228,
-                  "zoom": -0.46825704124937834
-                }
+                "file": "JX3/IOS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS vulkan 显示.canvas",
+                "file": "JX3/IOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS vulkan 显示.canvas",
+                "file": "JX3/IOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS vulkan 显示.canvas"
+                "file": "JX3/IOS.md"
               }
             }
           },
@@ -169,10 +166,10 @@
   },
   "active": "e858aee008737775",
   "lastOpenFiles": [
-    "JX3/IOS.md",
-    "iOS vulkan 显示.canvas",
-    "JX3/SQLite.md",
     "AR iOS.canvas",
+    "iOS vulkan 显示.canvas",
+    "JX3/IOS.md",
+    "JX3/SQLite.md",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "2023Q3、Q4目标.canvas",
     "readme.md",
