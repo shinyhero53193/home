@@ -3,7 +3,7 @@
 		{"id":"755fe42a9beb1d9d","type":"group","x":-146,"y":-420,"width":1686,"height":740,"label":"RenderBackground"},
 		{"id":"62fbe1ff3e66e196","type":"group","x":240,"y":-360,"width":407,"height":590,"label":"HardwareBuffer"},
 		{"id":"bad8106b2ca2bdc3","type":"group","x":357,"y":480,"width":863,"height":220,"label":"Texture"},
-		{"id":"f65f13d6ab0adfa7","type":"group","x":440,"y":1500,"width":662,"height":101,"label":"映射"},
+		{"id":"f65f13d6ab0adfa7","type":"group","x":440,"y":1500,"width":662,"height":101,"label":"内存映射"},
 		{"id":"923e53829e95283d","type":"text","text":"AHardwareBuffer_describe","x":276,"y":-340,"width":335,"height":60},
 		{"id":"cf890117cbf72bee","type":"text","text":"GetHardwareBufferProperties","x":276,"y":-240,"width":335,"height":60},
 		{"id":"7bd5b3d5e50e7b24","type":"text","text":"CreateImageBindToHardwareBuffer","x":260,"y":-150,"width":367,"height":67},
@@ -33,13 +33,20 @@
 		{"id":"88192786b45aff65","type":"text","text":"视图格式，用vkCreateImageView 创建","x":680,"y":620,"width":490,"height":60},
 		{"id":"f433e87b3a961e67","type":"text","text":"vkCmdDrawIndexed","x":1245,"y":50,"width":250,"height":60},
 		{"id":"9d043eb5dc7ed21e","type":"text","text":"EndCommandBuffer","x":1245,"y":150,"width":250,"height":60},
-		{"id":"cc64b6a8ce894640","type":"text","text":"createImage","x":645,"y":1680,"width":250,"height":60},
+		{"id":"cc64b6a8ce894640","type":"text","text":"createImage ","x":645,"y":1680,"width":250,"height":60},
 		{"id":"b99718a92383ddb8","type":"text","text":"data","x":832,"y":1521,"width":250,"height":60},
 		{"id":"7dee7b736538c339","type":"text","text":"stagingBufferMemory","x":480,"y":1521,"width":290,"height":60},
-		{"id":"5e4da21c35b4bab3","type":"text","text":"vkAllocateMemory","x":645,"y":1780,"width":250,"height":60},
+		{"id":"5e4da21c35b4bab3","type":"text","text":"vkAllocateMemory ","x":645,"y":1780,"width":250,"height":60},
 		{"id":"d2e380c0fabb367a","type":"text","text":"vkBindImageMemory","x":645,"y":1881,"width":250,"height":60},
-		{"id":"fa18ff1bed1bcbe6","type":"text","text":"vkCmdCopyBufferToImage","x":584,"y":1980,"width":373,"height":60},
-		{"id":"92ab2a6718c82d9e","type":"text","text":"vkBindBufferMemory","x":646,"y":1380,"width":250,"height":60}
+		{"id":"92ab2a6718c82d9e","type":"text","text":"vkBindBufferMemory","x":646,"y":1380,"width":250,"height":60},
+		{"id":"bdd318dae6e96c95","x":959,"y":1379,"width":250,"height":60,"type":"text","text":"缓冲区和显卡内存"},
+		{"id":"fa18ff1bed1bcbe6","type":"text","text":"vkCmdCopyBufferToImage","x":584,"y":2080,"width":373,"height":60},
+		{"id":"8c2ce166ba37cad5","x":646,"y":1980,"width":250,"height":60,"type":"text","text":"beginSingleTimeCommands"},
+		{"id":"9ba1cf81a0086dd9","x":646,"y":2200,"width":250,"height":60,"type":"text","text":"endSingleTimeCommands"},
+		{"id":"9936779e9c57beb9","x":1036,"y":2080,"width":424,"height":60,"type":"text","text":"把数据复制到图像缓冲区（VKImage）"},
+		{"id":"af62f2853ebb3401","x":1000,"y":1680,"width":250,"height":60,"type":"text","text":"由info创建图像"},
+		{"id":"f9b6c084c46a0185","x":976,"y":1780,"width":250,"height":60,"type":"text","text":"分配内存"},
+		{"id":"8cd3180e2601058c","x":976,"y":1881,"width":250,"height":60,"type":"text","text":"绑定内存和图像格式"}
 	],
 	"edges":[
 		{"id":"a0754d1392edd91a","fromNode":"be0f012fc448f87b","fromSide":"right","toNode":"f2aa8d77150069c2","toSide":"left"},
@@ -71,6 +78,13 @@
 		{"id":"53d33bfdc28aea23","fromNode":"f65f13d6ab0adfa7","fromSide":"bottom","toNode":"cc64b6a8ce894640","toSide":"top"},
 		{"id":"fef64be47f356f34","fromNode":"cc64b6a8ce894640","fromSide":"bottom","toNode":"5e4da21c35b4bab3","toSide":"top"},
 		{"id":"63cc0b3ad8b332b7","fromNode":"5e4da21c35b4bab3","fromSide":"bottom","toNode":"d2e380c0fabb367a","toSide":"top"},
-		{"id":"e685fc37a671c314","fromNode":"d2e380c0fabb367a","fromSide":"bottom","toNode":"fa18ff1bed1bcbe6","toSide":"top"}
+		{"id":"e54fad4b759562f9","fromNode":"92ab2a6718c82d9e","fromSide":"right","toNode":"bdd318dae6e96c95","toSide":"left"},
+		{"id":"4959a0244cca1d66","fromNode":"cc64b6a8ce894640","fromSide":"right","toNode":"af62f2853ebb3401","toSide":"left"},
+		{"id":"75c56bc5b5f67d50","fromNode":"5e4da21c35b4bab3","fromSide":"right","toNode":"f9b6c084c46a0185","toSide":"left"},
+		{"id":"c38fabc4036b8fd9","fromNode":"d2e380c0fabb367a","fromSide":"right","toNode":"8cd3180e2601058c","toSide":"left"},
+		{"id":"25455ec89893e0ea","fromNode":"d2e380c0fabb367a","fromSide":"bottom","toNode":"8c2ce166ba37cad5","toSide":"top"},
+		{"id":"f06a864758a51b5f","fromNode":"8c2ce166ba37cad5","fromSide":"bottom","toNode":"fa18ff1bed1bcbe6","toSide":"top"},
+		{"id":"1f47abcb03281a48","fromNode":"fa18ff1bed1bcbe6","fromSide":"bottom","toNode":"9ba1cf81a0086dd9","toSide":"top"},
+		{"id":"9481eb5cdea38e36","fromNode":"fa18ff1bed1bcbe6","fromSide":"right","toNode":"9936779e9c57beb9","toSide":"left"}
 	]
 }
