@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JX3/IOS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -166,10 +166,11 @@
   },
   "active": "e858aee008737775",
   "lastOpenFiles": [
-    "iOS vulkan 显示.canvas",
-    "AR iOS.canvas",
+    "JX3/C.md",
     "JX3/IOS.md",
     "JX3/SQLite.md",
+    "iOS vulkan 显示.canvas",
+    "AR iOS.canvas",
     "Patent/游戏服务器集群数据资源服务迁移方法.md",
     "2023Q3、Q4目标.canvas",
     "readme.md",
@@ -186,7 +187,6 @@
     "Note/未命名.canvas",
     "JX3/架构图.canvas",
     "JX3/构建流程.md",
-    "JX3/C.md",
     "JX3",
     "Demo",
     "Book/架构设计.md",
