@@ -34,6 +34,7 @@
 	- header
 	- version
 - memory read --size 1 --format x --count 16 0x1000
+- coreml class generation language swift
 
 
 ### Arkit
