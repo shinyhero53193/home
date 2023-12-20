@@ -4,3 +4,7 @@
 - 启动mongo  
 	- sudo systemctl start mongod
 	- serviece mongod status
+- 渲染引擎正规左手坐标系
+
+
+
