@@ -1,7 +1,11 @@
 
 ### TODO
 1. 包外加载so
-2. 签名
-3. 手机品牌
-4. 拆包
-5. 
+2. PaKV5获取新包
+3. 签名
+4. 手机品牌
+5. 拆包
+
+
+- BUILD_SHARED_LIBS  ： global flag on create dll
+- 
