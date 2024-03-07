@@ -6,6 +6,3 @@
 4. 手机品牌
 5. 拆包
 
-
-- BUILD_SHARED_LIBS  ： global flag on create dll
-- 
